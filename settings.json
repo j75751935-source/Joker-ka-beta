@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DORADOISLIVE.aternos.me:60709",
+    "ip": "DORADOISLIVE.aternos.me",
     "port": 60709,
     "version": "",
     "try-creative": false
